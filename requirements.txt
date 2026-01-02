@@ -1,0 +1,6 @@
+llama-cpp-python
+huggingface_hub
+requests
+beautifulsoup4
+numpy
+faiss-cpu
