@@ -1,4 +1,4 @@
-# 🍽️ AI 한양대 점심 메뉴 안내 (DeepGenModel Team Project)
+# 🍽️ AI 한양대 점심 메뉴 안내 챗봇 (DeepGenModel Team Project)
 
 > **2024년 1학기 딥생성모델 과목 팀 프로젝트** > LLM(거대언어모델)을 활용한 한양대학교 오늘 점심 메뉴 안내 서비스
 
